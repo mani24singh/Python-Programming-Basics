@@ -12,8 +12,7 @@
    3. High-level language
    4. Portable – works on Windows/Linux/Mac
    5. It is Fun to work on python
-   6. Installation
-- Python can be easily installed from python.org
+-Installation : Python can be easily installed from python.org
    * When you click on the download button, python can be installed right after you complete the setup by executing the file for your platform.
 
 
