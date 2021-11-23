@@ -1,4 +1,4 @@
-# Functions and Recursions :
+# Functions and Recursions 
 
 ## Functions :
 - A function is a group of statements performing a specific task.
