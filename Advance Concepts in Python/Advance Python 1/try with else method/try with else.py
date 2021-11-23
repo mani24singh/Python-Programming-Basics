@@ -1,0 +1,9 @@
+# PROGRAM TO HANDLE EXCEPTION USING TRY AND ELSE METHOD:
+
+try:
+    i = int(input('Enter a number : '))
+    c = 1/i
+except Exception as e:
+    print(e)
+else:
+    print('we were successful in running the program.')
