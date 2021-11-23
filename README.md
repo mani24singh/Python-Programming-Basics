@@ -1,5 +1,5 @@
 # Python-Programming-Basics
- - Concepts with various programs on python language
+ - This repository covers various concepts along with programs on python language
 
 ### Steps to use the programs:
    1. Download the required python(.py) file in your operating system.
