@@ -5,7 +5,7 @@
 > friends = [‘Apple’, ‘Akash’, ‘Rohan’, 7, False]
 - The list can contain different types of elements such as int, float, string, Boolean, etc. Above list is a collection of different types of elements.
 - List Indexing : A list can be index just like a string.
-> L1 = [7, 9, ‘harry’] \
+> L1 = [7, 9, ‘mani’] \
 L1[0] – 7 \
 L1[1] – 9 \
 L1[70] – Error \
