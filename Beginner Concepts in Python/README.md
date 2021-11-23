@@ -1,6 +1,5 @@
 # Python-Basics-Beginners :
 
-## Programming :
 ### What is Programming?
 - Just like we use Hindi or English to communicate with each other, we use a Programming language to communicate with the computer.
 - Programming is a way to instruct the computer to perform various tasks.
